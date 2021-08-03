@@ -38,6 +38,7 @@
 				<li><a href="https://ruangkoding.id/cara-menggunakan-json-di-javascript/" target="_blank">cara menggunakan json di javascript</a></li>
 				<li><a href="https://ruangkoding.id/apa-itu-load-balancing/" target="_blank">apa itu load balancing</a></li>
 				<li><a href="https://ruangkoding.id/tutorial-crud-dengan-pdo-dan-mysql/" target="_blank">tutorial crud dengan pdo dan mysql</a></li>
+				<li><a href="https://ruangkoding.id/tutorial-cara-membuat-package-laravel-sendiri/" target="_blank">tutorial cara membuat package laravel sendiri</a></li>
 			<ul>
 	  </div>
 	</main>
