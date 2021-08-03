@@ -27,3 +27,4 @@
 * [cara menggunakan json di javascript](https://ruangkoding.id/cara-menggunakan-json-di-javascript/)
 * [apa itu load balancing](https://ruangkoding.id/apa-itu-load-balancing/)
 * [tutorial crud dengan pdo dan mysql](https://ruangkoding.id/tutorial-crud-dengan-pdo-dan-mysql/)
+* [tutorial cara membuat package laravel sendiri](https://ruangkoding.id/tutorial-cara-membuat-package-laravel-sendiri/)
