@@ -28,3 +28,4 @@
 * [apa itu load balancing](https://ruangkoding.id/apa-itu-load-balancing/)
 * [tutorial crud dengan pdo dan mysql](https://ruangkoding.id/tutorial-crud-dengan-pdo-dan-mysql/)
 * [tutorial cara membuat package laravel sendiri](https://ruangkoding.id/tutorial-cara-membuat-package-laravel-sendiri/)
+* [Tutorial GIT : Membuat Branch Baru di Git](https://ruangkoding.id/membuat-branch-baru-di-git/)
