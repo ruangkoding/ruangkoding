@@ -42,6 +42,7 @@
 				<li><a href="https://ruangkoding.id/tutorial-cara-membuat-package-laravel-sendiri/" target="_blank">tutorial cara membuat package laravel sendiri</a></li>
 				<li><a href="https://ruangkoding.id/membuat-branch-baru-di-git/" target="_blank">membuat branch baru di git</a></li>
 				<li><a href="https://ruangkoding.id/apa-itu-kubernetes-dan-kelebihannya/" target="_blank">apa itu kubernetes dan kelebihannya</a></li>
+				<li><a href="https://ruangkoding.id/membuat-fungsi-terbilang-di-php/" target="_blank">membuat fungsi terbilang di php</a></li>
 			<ul>
 	  </div>
 	</main>
