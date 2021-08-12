@@ -12,6 +12,7 @@
 	    <h1>Artikel Ruang Koding</h1>
 			<ul>
 				<li><a href="https://ruangkoding.id/" target="_blank">ruangkoding id</a></li>
+				<li><a href="https://t.me/s/ruangkoding" target="_blank">channel telegram ruangkoding</a></li>
 				<li><a href="https://ruangkoding.id/apa-itu-programmer/" target="_blank">apa itu programmer</a></li>
 				<li><a href="https://ruangkoding.id/aplikasi-untuk-bisnis-online/" target="_blank">aplikasi untuk bisnis online</a></li>
 				<li><a href="https://ruangkoding.id/tutorial-membuat-function-di-python/" target="_blank">tutorial membuat function di python</a></li>
