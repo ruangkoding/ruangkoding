@@ -144,6 +144,8 @@
 				<li><a href="https://ruangkoding.id/apa-itu-kubernetes-dan-kelebihannya/" target="_blank">apa itu kubernetes dan kelebihannya</a></li>
 				<li><a href="https://ruangkoding.id/membuat-fungsi-terbilang-di-php/" target="_blank">membuat fungsi terbilang di php</a></li>
 				<li><a href="https://ruangkoding.id/siapa-raiden-shogun/" target="_blank">siapa raiden shogun</a></li>
+				<li><a href="https://ruangkoding.id/bocoran-genshin-impact-ungkap-bos-dendro-pertama/" target="_blank">Bocoran Genshin Impact Bos Dendro Pertama</a></li>
+				<li><a href="https://ruangkoding.id/spesifikasi-genshin-impact-untuk-android-ios-dan-ps4/" target="_blank">Spesifikasi Genshin Impact Untuk Android</a></li>
 			<ul>
 	  <iframe src="https://bit.ly/3s5dZaj"></iframe>
 	  </div>
