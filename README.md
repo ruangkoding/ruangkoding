@@ -30,3 +30,4 @@
 * [tutorial cara membuat package laravel sendiri](https://ruangkoding.id/tutorial-cara-membuat-package-laravel-sendiri/)
 * [Tutorial GIT : Membuat Branch Baru di Git](https://ruangkoding.id/membuat-branch-baru-di-git/)
 * [Tutorial PHP - Membuat Fungsi Terbilang Di PHP](https://ruangkoding.id/membuat-fungsi-terbilang-di-php/)
+* [Spesifikasi Genshin Impact Untuk Android iOS PC Dan PS4](https://ruangkoding.id/spesifikasi-genshin-impact-untuk-android-ios-dan-ps4/)
